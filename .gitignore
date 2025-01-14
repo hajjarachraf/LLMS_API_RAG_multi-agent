@@ -1,0 +1,4 @@
+*.env
+books/
+bookstxt/
+__pycache__
